@@ -1,5 +1,4 @@
-#update:26-09-2025
-#UNABLE TO BUILD
+#update:16-02-2026
 
 FROM php:7.2-fpm
 RUN apt-get update && apt-get install -y \
